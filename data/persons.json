@@ -1,0 +1,53 @@
+[
+    {
+      "email": "marceloibanezmc@gmail.com",
+      "fullName": "Marcelo Ibañez",
+      "position": "Aprendiz del Juan Torres"
+    },
+    {
+      "email": "luismigueltarra@outlook.com",
+      "fullName": "Luis Miguel",
+      "position": "Ingeniero en Sistemas"
+    },
+    {
+      "email": "david.johnson@example.com",
+      "fullName": "David Johnson",
+      "position": "Data Analyst"
+    },
+    {
+      "email": "emily.wilson@example.com",
+      "fullName": "Emily Wilson",
+      "position": "UX Designer"
+    },
+    {
+      "email": "michael.brown@example.com",
+      "fullName": "Michael Brown",
+      "position": "Marketing Specialist"
+    },
+    {
+      "email": "sarah.jackson@example.com",
+      "fullName": "Sarah Jackson",
+      "position": "HR Manager"
+    },
+    {
+      "email": "robert.williams@example.com",
+      "fullName": "Robert Williams",
+      "position": "Financial Analyst"
+    },
+    {
+      "email": "olivia.martin@example.com",
+      "fullName": "Olivia Martin",
+      "position": "Graphic Designer"
+    },
+    {
+      "email": "william.jones@example.com",
+      "fullName": "William Jones",
+      "position": "Sales Representative"
+    },
+    {
+      "email": "emma.garcia@example.com",
+      "fullName": "Emma Garcia",
+      "position": "Customer Support Specialist"
+    }
+  ]
+  
